@@ -1,0 +1,11 @@
+c:\users\haoye\source\repos\RCalculator\RCalculator\bin\Debug\RCalculator.exe.config
+c:\users\haoye\source\repos\RCalculator\RCalculator\bin\Debug\RCalculator.exe
+c:\users\haoye\source\repos\RCalculator\RCalculator\bin\Debug\RCalculator.pdb
+c:\users\haoye\source\repos\RCalculator\RCalculator\bin\Debug\RDotNet.dll
+c:\users\haoye\source\repos\RCalculator\RCalculator\bin\Debug\RDotNet.NativeLibrary.dll
+c:\users\haoye\source\repos\RCalculator\RCalculator\bin\Debug\RDotNet.xml
+c:\users\haoye\source\repos\RCalculator\RCalculator\bin\Debug\RDotNet.NativeLibrary.xml
+c:\users\haoye\source\repos\RCalculator\RCalculator\obj\Debug\RCalculator.csprojResolveAssemblyReference.cache
+c:\users\haoye\source\repos\RCalculator\RCalculator\obj\Debug\RCalculator.csproj.CoreCompileInputs.cache
+c:\users\haoye\source\repos\RCalculator\RCalculator\obj\Debug\RCalculator.exe
+c:\users\haoye\source\repos\RCalculator\RCalculator\obj\Debug\RCalculator.pdb
